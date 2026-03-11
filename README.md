@@ -15,7 +15,7 @@ init_three_tank.m`: MATLAB script containing system parameters (tank area, tube 
 3. Click **Run** to view the Comparison Scopes (Nonlinear vs. Linear).
 ![Difference Scope Results](Screenshot_difference.png)
 ![linear](Screenshot_linear.png)
-![non linear](Screenshot_non_linear.png)
+![non linear](screenshot_non_linear.png)
 
 
 
