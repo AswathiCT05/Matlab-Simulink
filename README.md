@@ -13,4 +13,9 @@ init_three_tank.m`: MATLAB script containing system parameters (tank area, tube 
 1. Open MATLAB and run `init_three_tank.m` to load variables into the workspace.
 2. Open `ThreeTankOpensystem.slx`.
 3. Click **Run** to view the Comparison Scopes (Nonlinear vs. Linear).
+Difference Scope Results -Screenshot difference.png
+Screenshot linear.png
+Screenshot non linear.png
+
+
 
